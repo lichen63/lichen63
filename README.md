@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Work time: develop browser client with C++ and Objective-C<br>Free time: develop games with Godot<br>Spare time: develop tools with Flutter and Python</p>
+<p align="left">Work time: develop browser client with C++ and Objective-C<br>Free time: develop games with Godot, develop tools with Flutter and Python, write articles with markdown</p>
 
 ###
 
