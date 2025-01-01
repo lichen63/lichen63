@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Lichen and I'm a software engineer working in Microsoft.</p>
+<p align="left">This is Lichen, a software engineer working in Microsoft.</p>
 
 ###
 
